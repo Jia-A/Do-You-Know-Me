@@ -1,1 +1,3 @@
-This is CLI based quiz with questions related to me!
+DO YOU KNOW ME??
+
+This is CLI based quiz made with JavaScript with questions related to me!
